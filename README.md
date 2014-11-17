@@ -6,6 +6,7 @@ Squid related Perl scripts
 1. imap-auth.pl
 ===============
 
+http://www.squid-cache.org/mail-archive/squid-users/201206/0058.html
 Squid's basic auth helper for authentication against IMAP and IMAPS servers.
 
 IMAP:
